@@ -14,8 +14,9 @@ Version:           1.0
 
 == Description ==
 
-I'll fill this in later
+ViperProof enables you to show various aspects of social proof on your blog, in order to help you get more feed subscribers. You can show off the number of posts you've written, how many comments your site has, how many twitter followers you have, and how many facebook fans you have.
 
+There's also an option to include the number of monthly visitors you receive. If you have any questions, please check our [http://www.viperchill.com/wordpress-plugins/](Worpdress Plugins) page.
 == Installation ==
 
 I'll fill ths in later
