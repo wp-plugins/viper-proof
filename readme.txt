@@ -18,6 +18,8 @@ ViperProof enables you to show various aspects of social proof on your blog, in 
 
 There's also an option to include the number of monthly visitors you receive. If you have any questions, please check our [Wordpress Plugins](http://www.viperchill.com/wordpress-plugins/) page.
 
+If you're looking to take Worpdress to the next level, you may also enjoy our guide to [Wordpress SEO](http://www.viperchill.com/wordpress-seo/). 
+
 == Installation ==
 
 Follow the steps below to install the plugin.
@@ -34,13 +36,12 @@ First Stable Release.
 
 == Screenshots ==
 
-I'll fill this in later
+1. The settings page.
+
+2. On your sidebar.
+
 == Changelog ==
 
 = Version 1.0.0 (3/11/11) =
 
 * Launched
-
-
-== Frequently Asked Questions ==
-== Donations ==
