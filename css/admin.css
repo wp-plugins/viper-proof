@@ -1,0 +1,13 @@
+.displaychoices input { margin-left: 10px; } 
+.displaychoices { padding-bottom: 5px; }
+.viperproofstats img { padding-right: 10px; height:16px; vertical-align: middle; }
+.viperproofstats{ padding-top:5px; }
+.viperproof_stat { padding-top: 5px; }
+.viperproof_hint { padding: 5px; }
+.viperproof_icon { vertical-align:middle; padding-right:5px; height:16px; }
+#viperproof_main_container { width: 650px; border: 1px solid #DCDCDC; margin: 10px; padding: 10px; }
+.viperproof_input,.viperproof_label { margin: 3px; display: block; width: 95%; }		
+.viperproof_form_element { float: left; width: 49%; }		
+.viperproof_label { font-weight: bold; margin-top: 20px; }		
+.viperproof_input { margin-left: 20px; }
+.viperproof_big_hint { padding: 15px; }
